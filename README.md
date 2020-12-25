@@ -16,3 +16,8 @@ This project is just a demo how to use git
 
 // git checkout -- <file> (xoa bo mot so thay doi khi chua len git)
 //  git reset <file> (dung de reset file khi len git)
+
+//git branch
+//git checkout -b <branch> (branching)
+//git checkout <branch>
+//git merge
