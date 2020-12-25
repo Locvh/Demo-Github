@@ -31,6 +31,11 @@ master <--- feature/dog-class
 
 // git branch -D <filename>  ( dung de xoa nhanh trong branch)
 
-//git reset  --soft <to_commit>
-//git reset  --mixed <to_commit>
-//git reset  --hard <to_commit>
+//git reset  --soft <to_commit> (quay lai nhung modifiled)
+//git reset  --mixed <to_commit> (quay lai nhung ko modifiled)
+///////git reset  --hard <to_commit> (qua lai nhung mat hoan toan)
+
+
+////// git revert <commit> (hoan lai mot dong)
+
+// .gitignore (se an nhung file ko muon dua vao commit)
