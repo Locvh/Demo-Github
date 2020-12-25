@@ -18,6 +18,11 @@ This project is just a demo how to use git
 //  git reset <file> (dung de reset file khi len git)
 
 //git branch
-//git checkout -b <branch> (branching)
+
+//git checkout -b <branch> (branching) (git checkout -b <filename>) (vua chuyen den file moi vua tao file)
 //git checkout <branch>
 //git merge
+A <--- B
+git checkout A
+git merge B
+master <--- feature/dog-class
