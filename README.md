@@ -21,8 +21,16 @@ This project is just a demo how to use git
 
 //git checkout -b <branch> (branching) (git checkout -b <filename>) (vua chuyen den file moi vua tao file)
 //git checkout <branch>
-//git merge
+//git merge  ( dung de gop tat ca cac branch gom 2 buoc )
 A <--- B
-git checkout A
-git merge B
+
+B1: git checkout A  (chon branch chua master)
+B2: git merge B  ( chon branch se cho vao )
+
 master <--- feature/dog-class
+
+// git branch -D <filename>  ( dung de xoa nhanh trong branch)
+
+//git reset  --soft <to_commit>
+//git reset  --mixed <to_commit>
+//git reset  --hard <to_commit>
