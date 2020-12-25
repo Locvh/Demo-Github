@@ -39,3 +39,10 @@ master <--- feature/dog-class
 ////// git revert <commit> (hoan lai mot dong)
 
 // .gitignore (se an nhung file ko muon dua vao commit)
+
+
+// dung de patch duong link tren github  
+// git remote add origin <link https>
+// git remote -v (xem thong tin duong link)
+// git remote remove origin ( xoa duong link do di)
+// git push -u origin master ( push len github)
