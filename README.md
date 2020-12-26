@@ -46,3 +46,14 @@ master <--- feature/dog-class
 // git remote -v (xem thong tin duong link)
 // git remote remove origin ( xoa duong link do di)
 // git push -u origin master ( push len github)
+// git push
+
+// git clone <link> (copy nguyen ban git repository)
+// git pull (xem thay doi tren local)
+
+// pull request
+//1. git checkout -b <feature_branch>
+//2. git push origin <branch>
+//3. create a pull request on github
+//4. review code
+//5. merge to master
